@@ -1,2 +1,2 @@
 # CIDH-caffe
-This is a source code for cohesion intensive deep hashing (CIDH)
+We fork the repository from [Caffe](https://github.com/BVLC/caffe) and make our modifications. 
