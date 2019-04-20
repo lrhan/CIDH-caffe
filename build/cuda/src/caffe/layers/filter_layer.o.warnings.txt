@@ -1,0 +1,48 @@
+/opt/caffelib/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/opt/caffelib/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/opt/caffelib/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/opt/caffelib/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/opt/caffelib/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/opt/caffelib/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/opt/caffelib/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/opt/caffelib/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/boost/smart_ptr/detail/sp_counted_base_gcc_x86.hpp(75): warning: variable "tmp" was set but never used
+
+/opt/caffelib/include/glog/logging.h(348): warning: using-declaration ignored -- it refers to the current namespace
+
+/opt/caffelib/include/glog/logging.h(352): warning: using-declaration ignored -- it refers to the current namespace
+
