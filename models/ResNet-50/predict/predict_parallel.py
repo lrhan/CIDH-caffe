@@ -3,7 +3,7 @@ import time
 import scipy as sp
 import scipy.io as sio
 import sys
-caffe_root='/home/lrh/HashNet-master/caffe/'
+caffe_root='/home/lrh/HashNet-master/caffe/'#your caffe path
 sys.path.insert(0,caffe_root+'python')
 import caffe
 from multiprocessing import Pool 
@@ -117,11 +117,11 @@ params = []
 for gpu_id in range(ndevices):
 
         params.append(dict(model_file="./deploy.prototxt",
-                     pretrained_model="/home/lrh/HashNet-master/caffe/models/ResNet-50/models/ResUCMD32.caffemodel",
+                     pretrained_model="/home/lrh/HashNet-master/caffe/models/ResNet-50/models/ResUCMD32.caffemodel",# The path of the pretrained model
                       image_dims=(256,256),
                       scale=255,
-                      database="/home/lrh/dataset/UCdataset-4/train_label.txt",
-                      validation="/home/lrh/dataset/UCdataset-4/test_label.txt",
+                      database="/home/lrh/dataset/UCdataset-4/train_label.txt",#your dataset label path 
+                      validation="/home/lrh/dataset/UCdataset-4/test_label.txt",#your dataset label path
                       batch_size=20,
                       mean_file="./ilsvrc_2012_mean.npy",
                       gpu_id=gpu_id))
