@@ -117,7 +117,7 @@ params = []
 for gpu_id in range(ndevices):
 
         params.append(dict(model_file="./deploy.prototxt",
-                     pretrained_model="/home/lrh/HashNet-master/caffe/models/ResNet-50/models/ResUCMD32.caffemodel",# The path of the pretrained model
+                     pretrained_model="/home/lrh/HashNet-master/caffe/models/ResNet-50/ResUCMD32.caffemodel",# The path of the pretrained model
                       image_dims=(256,256),
                       scale=255,
                       database="/home/lrh/dataset/UCdataset-4/train_label.txt",#your dataset label path 
