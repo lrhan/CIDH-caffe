@@ -6,7 +6,7 @@ We fork the repository from [Caffe](https://github.com/BVLC/caffe) and make our 
 
 ## Data Preparation
 
-You can download the data set and labels from [UCMerced-4](https://mp.weixin.qq.com/s/6I-eBg2_m-T0ugBBHG1yEg). The password is `ti2v`. The train label file and test label file is `train_label.txt` and `test_label.txt`, respectively.
+You can download the data set and labels from [UCMerced-4](https://pan.baidu.com/s/1JpSDMr0isMpj-0ZRfsfLCw). The password is `ti2v`. The train label file and test label file is `train_label.txt` and `test_label.txt`, respectively.
 
 After download the data set, you will change the data set path in label files. 
 
